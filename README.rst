@@ -46,8 +46,12 @@ Tasks:
 
 hdp25.post-installation
 =======================
-Purpose: setting up worker nodes 
-Question: Why separate? Ans: Different requirements from master. No need too many
+Purpose: setting up worker nodes
+ 
+Question: Why separate? 
+
+Ans: Different requirements from master. No need too many
+
 Tasks: 
 
 * disable selinux
